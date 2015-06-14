@@ -2571,6 +2571,7 @@ developers to elisp hackers!
 [vim-surround]: https://github.com/tpope/vim-surround
 [evil-nerd-commenter]: https://github.com/redguardtoo/evil-nerd-commenter
 [nerdcommenter]: https://github.com/scrooloose/nerdcommenter
+[evil-search-highlight-persist]: https://github.com/juanjux/evil-search-highlight-persist
 [evil-matchit]: https://github.com/redguardtoo/evil-matchit
 [matchit.vim]: http://www.vim.org/scripts/script.php?script_id=39
 [source code pro]: https://github.com/adobe-fonts/source-code-pro
